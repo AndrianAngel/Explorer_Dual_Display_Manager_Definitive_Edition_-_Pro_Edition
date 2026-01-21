@@ -291,3 +291,77 @@ Created with ❤️ for power users who demand more from Windows Explorer
 ---
 
 ### 🌟 Star this repo if it boosts your productivity! 🌟
+
+___
+
+
+
+📽️ Watch Demo Here (The recording is slow)
+
+
+
+![A.gif Settings](Images/A.gif)
+
+
+
+___
+
+
+
+📜 Overview of all features
+
+
+
+![A1 Settings](Images/A1.png)
+
+
+
+___
+
+
+
+📌 Top Folder is the Source and Below Folder is the Destination in Dual Display Horizontal
+
+
+
+![A2 Settings](Images/A2.png)
+
+
+
+___
+
+
+
+🌱 Left Folder is the Source and Right Folder is the Destination in Dual Display Vertical
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+___
+
+
+
+📜 Setting: INI File
+
+
+
+![A4 Settings](Images/A4.png)
+
+
+
+___
+
+
+
+📗 Robocopy Operation Logs
+
+
+
+![A5 Settings](Images/A5.png)
+
+
+
+___
