@@ -379,7 +379,58 @@ ___
 
 ![C1 Settings](Images/C1.png)
 
-___
+
+---
+
+
+
+## 📌What's New — v26.05.20 (Pro Edition)
+
+
+
+### ✅System Tray Menu
+
+
+
+The script now registers a custom tray icon menu, replacing the default AutoHotkey one. Right-clicking the tray icon gives you quick access to:
+
+
+
+- **Toggle Bar** (`Ctrl+P`) — show or hide the floating toolbar
+
+- **Settings** — open the hotkey/options panel
+
+- **Reload** — restart the script on the fly
+
+- **Exit** — cleanly close the application
+
+
+
+The default tray action (double-click) is also bound to **Toggle Bar** for faster access.
+
+
+
+### ✅Robocopy Log — Fixed & Improved
+
+
+
+The log system has been corrected and is now fully reliable:
+
+
+
+- Each Robocopy operation generates a timestamped `.txt` log file saved in a dedicated `Robocopy_Logs` folder next to the script.
+
+- Log filenames include the operation type (`COPY`/`MOVE`), timestamp, and item index for easy sorting.
+
+- The CMD window now runs with **UTF-8 encoding** (`chcp 65001`) before each operation, fixing character encoding issues that could corrupt log output on non-English systems.
+
+- At the end of each operation, a prompt offers to open the logs folder directly.
+
+- Logging can be toggled on or off from the Settings panel, and the preference is saved persistently.
+
+
+
+---
 
 
 
