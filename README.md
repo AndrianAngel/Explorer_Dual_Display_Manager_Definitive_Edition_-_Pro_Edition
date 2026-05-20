@@ -377,7 +377,7 @@ ___
 
 ##  💎New Tray Menu added
 
-![A1 Settings](Images/A1.png)
+![C1 Settings](Images/C1.png)
 
 ___
 
