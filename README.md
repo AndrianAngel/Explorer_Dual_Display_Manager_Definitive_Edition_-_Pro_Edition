@@ -364,4 +364,25 @@ ___
 
 
 
+
 ___
+
+
+
+###  📌 EXPLORER DUAL DISPLAY MANAGER PRO
+
+___
+
+
+
+##  💎New Tray Menu added
+
+![A1 Settings](Images/A1.png)
+
+___
+
+
+
+
+
+
